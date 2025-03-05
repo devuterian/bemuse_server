@@ -1,0 +1,96 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "e93b427dd464d9832f2e3b5e34d2867b",
+      "info": {
+        "title": "Lucidive",
+        "artist": "chilldive obj.RemiIia",
+        "genre": "Jazztronica",
+        "subtitles": [
+          "Another"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 1273,
+      "bpm": {
+        "init": 108,
+        "min": 100,
+        "median": 100,
+        "max": 108
+      },
+      "duration": 135.8,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_lucidive_another.bms"
+    },
+    {
+      "md5": "537e047bd873b32cbb3443248e4fbdbb",
+      "info": {
+        "title": "Lucidive",
+        "artist": "chilldive obj.RemiIia",
+        "genre": "Jazztronica",
+        "subtitles": [
+          "Hyper"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 8
+      },
+      "noteCount": 896,
+      "bpm": {
+        "init": 108,
+        "min": 100,
+        "median": 100,
+        "max": 108
+      },
+      "duration": 135.8,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_lucidive_hyper.bms"
+    },
+    {
+      "md5": "e4e2ac0eed833d4f05ee60963ed42a7b",
+      "info": {
+        "title": "Lucidive",
+        "artist": "chilldive obj.RemiIia",
+        "genre": "Jazztronica",
+        "subtitles": [
+          "Normal"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 5
+      },
+      "noteCount": 416,
+      "bpm": {
+        "init": 108,
+        "min": 100,
+        "median": 100,
+        "max": 108
+      },
+      "duration": 135.8,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_lucidive_normal.bms"
+    }
+  ],
+  "title": "Lucidive",
+  "artist": "chilldive",
+  "genre": "Jazztronica",
+  "bpm": 100,
+  "replaygain": "-11.75 dB",
+  "preview_offset": 22,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/chilldive/lucidive-pabat-2025",
+  "bms_url": "https://k-bms.com/party_pabat/party.jsp?board_num=25&num=32&order=reg&odtype=a",
+  "youtube_url": "https://www.youtube.com/watch?v=5tfsbDWAap0",
+  "artist_url": "https://x.com/chilldive",
+  "readme": "README.md",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 2.3
+}
