@@ -1,0 +1,153 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "fb639f19a1a3f96582a26cd5fd4a598f",
+      "info": {
+        "title": "Moving Man",
+        "artist": "kanetv8",
+        "genre": "Playboy",
+        "subtitles": [
+          "SP HYPER"
+        ],
+        "subartists": [
+          "BMS by chilldive"
+        ],
+        "difficulty": 3,
+        "level": 7
+      },
+      "noteCount": 148,
+      "bpm": {
+        "init": 100,
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "duration": 31.025169510546778,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_moving_man_7k03.bms"
+    },
+    {
+      "md5": "80432d826820d06f91b68a3f29f77175",
+      "info": {
+        "title": "Moving Man",
+        "artist": "kanetv8",
+        "genre": "Playboy",
+        "subtitles": [
+          "THE PINK MURDERER"
+        ],
+        "subartists": [
+          "BMS by chilldive"
+        ],
+        "difficulty": 5,
+        "level": 99
+      },
+      "noteCount": 10477,
+      "bpm": {
+        "init": 100,
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "duration": 31.279888192771068,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_moving_man_7kdanger.bms"
+    },
+    {
+      "md5": "c2e8bca4700dba3218c7eeb6ca535203",
+      "info": {
+        "title": "Moving Man",
+        "artist": "kanetv8 / BMS by chilldive",
+        "genre": "Playboy",
+        "subtitles": [
+          "SP MYONGJI COLLEGE"
+        ],
+        "subartists": [
+          "obj. noprize"
+        ],
+        "difficulty": 5,
+        "level": 22
+      },
+      "noteCount": 243,
+      "bpm": {
+        "init": 100,
+        "min": 25,
+        "median": 100,
+        "max": 100
+      },
+      "duration": 30.690427412207438,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_moving_man_7k05.bms"
+    },
+    {
+      "md5": "4e8c42d3492c6af43b54ecfd77b7716e",
+      "info": {
+        "title": "Moving Man",
+        "artist": "kanetv8",
+        "genre": "Playboy",
+        "subtitles": [
+          "SP NORMAL"
+        ],
+        "subartists": [
+          "BMS by chilldive"
+        ],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 64,
+      "bpm": {
+        "init": 100,
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "duration": 31.025238505352437,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_moving_man_7k02.bms"
+    },
+    {
+      "md5": "1c418fcc95b2e2613a484ee4138edb15",
+      "info": {
+        "title": "Moving Man",
+        "artist": "kanetv8",
+        "genre": "Playboy",
+        "subtitles": [
+          "SP ANOTHER"
+        ],
+        "subartists": [
+          "BMS by chilldive"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 241,
+      "bpm": {
+        "init": 100,
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "duration": 31.025169510546778,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_moving_man_7k04.bms"
+    }
+  ],
+  "title": "Moving Man",
+  "artist": "kanetv8 REMIXED by 딥웹케인",
+  "genre": "Playboy",
+  "bpm": 100,
+  "replaygain": "-5.13 dB",
+  "preview_offset": 0,
+  "preview_url": "bemuse-data/preview.mp3",
+  "youtube_url": "https://www.youtube.com/watch?v=92volEdYcCQ",
+  "readme": "",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 2.3
+}
