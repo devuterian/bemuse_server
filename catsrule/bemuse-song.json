@@ -1,0 +1,171 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "ab92bbb6dbd13cc2d84590768b021204",
+      "info": {
+        "title": "Cat's rule",
+        "artist": "Chilldive",
+        "genre": "\"aww\"",
+        "subtitles": [
+          "5K Beginner"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 1
+      },
+      "noteCount": 292,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 148.36910270411428,
+      "scratch": true,
+      "keys": "5K",
+      "file": "__Cat's_rule_5k_bg1.bms"
+    },
+    {
+      "md5": "11ab4d250fde1fe5151c5ce5d9001f68",
+      "info": {
+        "title": "Cat's rule",
+        "artist": "Chilldive",
+        "genre": "\"aww\"",
+        "subtitles": [
+          "5k Hyper"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 9
+      },
+      "noteCount": 1045,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 148.36910270411428,
+      "scratch": true,
+      "keys": "5K",
+      "file": "__Cat's_rule_5k_hyper9.bms"
+    },
+    {
+      "md5": "73df4300e16f103360a063f54e2ee764",
+      "info": {
+        "title": "Cat's rule",
+        "artist": "Chilldive",
+        "genre": "\"aww\"",
+        "subtitles": [
+          "Hyper"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 9
+      },
+      "noteCount": 1012,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 148.36910270411428,
+      "scratch": true,
+      "keys": "7K",
+      "file": "__Cat's_rule_Hyper9.bms"
+    },
+    {
+      "md5": "95c051b4aaa97310f4e5d8734e4a19c1",
+      "info": {
+        "title": "Cat's rule",
+        "artist": "Chilldive",
+        "genre": "\"aww\"",
+        "subtitles": [
+          "Normal"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 7
+      },
+      "noteCount": 679,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 148.36910270411428,
+      "scratch": true,
+      "keys": "7K",
+      "file": "__Cat's_rule_Normal7.bms"
+    },
+    {
+      "md5": "587ba98fb75f71f88dae3a42e67d6dd8",
+      "info": {
+        "title": "Cat's rule",
+        "artist": "Chilldive",
+        "genre": "\"aww\"",
+        "subtitles": [
+          "Insane"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1508,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 148.36910270411428,
+      "scratch": true,
+      "keys": "7K",
+      "file": "__Cat's_rule_Insane12.bms"
+    },
+    {
+      "md5": "8efe24e62b7b42ca8b065de8bc53ccce",
+      "info": {
+        "title": "Cat's rule",
+        "artist": "Chilldive",
+        "genre": "\"aww\"",
+        "subtitles": [
+          "Easy"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 3
+      },
+      "noteCount": 459,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 148.36910270411428,
+      "scratch": true,
+      "keys": "7K",
+      "file": "__Cat's_rule_Easy3.bms"
+    }
+  ],
+  "title": "Cat's rule",
+  "artist": "Chilldive",
+  "genre": "\"aww\"",
+  "bpm": 120,
+  "replaygain": "-9.87 dB",
+  "song_url": "https://soundcloud.com/chilldive/bofet-cats-rule",
+  "bms_url": "https://manbow.nothing.sh/event/page/bofet_YNzM4BcPJHV8eZ7b_summer/teamlist22/kprof.cgi?idx=141",
+  "youtube_url": "https://www.youtube.com/watch?v=l256YRf_c0I",
+  "long_url": "https://soundcloud.com/chilldive/4-cats-rule-the-feline",
+  "bmssearch_id": "NyhCd7fcFPdhFb",
+  "artist_url": "https://x.com/chilldive",
+  "readme": "README.md",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 0.7
+}
