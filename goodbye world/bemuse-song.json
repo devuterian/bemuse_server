@@ -1,0 +1,261 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "4ad80d1e7b3dbcf744f5756e675a65d1",
+      "info": {
+        "title": "goodbye world",
+        "artist": "yeowool",
+        "genre": "blue hardcore",
+        "subtitles": [
+          "[SP INSANE]"
+        ],
+        "subartists": [
+          "obj. BK"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 1754,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 125.97857142857144,
+      "scratch": true,
+      "keys": "7K",
+      "file": "goodbyeworld_15_SPI.bms"
+    },
+    {
+      "md5": "ac235fc7609613acea4aefa1f49bd3cf",
+      "info": {
+        "title": "goodbye world",
+        "artist": "yeowool",
+        "genre": "blue hardcore",
+        "subtitles": [
+          "[SP BEGINNER]"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 1
+      },
+      "noteCount": 93,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 125.97857142857144,
+      "scratch": true,
+      "keys": "7K",
+      "file": "goodbyeworld_11_SPB.bms"
+    },
+    {
+      "md5": "eac93c6b7a9fdf6632c1d3aaa2dd1e6d",
+      "info": {
+        "title": "goodbye world",
+        "artist": "yeowool",
+        "genre": "blue hardcore",
+        "subtitles": [
+          "[DP INSANE]"
+        ],
+        "subartists": [
+          "obj. Limite"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 911,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 125.97857142857144,
+      "scratch": true,
+      "keys": "14K",
+      "file": "goodbyeworld_25_DPI.bms"
+    },
+    {
+      "md5": "d6ac34cf0a6ed0c011a8db3d930b0e50",
+      "info": {
+        "title": "goodbye world",
+        "artist": "yeowool",
+        "genre": "blue hardcore",
+        "subtitles": [
+          "[SP HYPER]"
+        ],
+        "subartists": [
+          "obj. BK"
+        ],
+        "difficulty": 3,
+        "level": 6
+      },
+      "noteCount": 630,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 125.97857142857144,
+      "scratch": true,
+      "keys": "7K",
+      "file": "goodbyeworld_13_SPH.bms"
+    },
+    {
+      "md5": "b1032658ff85a9aadadad0995e6344b3",
+      "info": {
+        "title": "goodbye world",
+        "artist": "yeowool",
+        "genre": "blue hardcore",
+        "subtitles": [
+          "[SP NORMAL]"
+        ],
+        "subartists": [
+          "obj. BK"
+        ],
+        "difficulty": 2,
+        "level": 3
+      },
+      "noteCount": 310,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 125.97857142857144,
+      "scratch": true,
+      "keys": "7K",
+      "file": "goodbyeworld_12_SPN.bms"
+    },
+    {
+      "md5": "3b6947a2ab0cedd316deec10b894f68e",
+      "info": {
+        "title": "goodbye world",
+        "artist": "yeowool",
+        "genre": "blue hardcore",
+        "subtitles": [
+          "[DP ANOTHER]"
+        ],
+        "subartists": [
+          "obj. Limite"
+        ],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 625,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 125.97857142857144,
+      "scratch": true,
+      "keys": "14K",
+      "file": "goodbyeworld_24_DPA.bms"
+    },
+    {
+      "md5": "0e4e7580af8b00303008b093ad918a6d",
+      "info": {
+        "title": "goodbye world",
+        "artist": "yeowool",
+        "genre": "blue hardcore",
+        "subtitles": [
+          "[DP HYPER]"
+        ],
+        "subartists": [
+          "obj. Limite"
+        ],
+        "difficulty": 3,
+        "level": 8
+      },
+      "noteCount": 435,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 125.97857142857144,
+      "scratch": true,
+      "keys": "14K",
+      "file": "goodbyeworld_23_DPH.bms"
+    },
+    {
+      "md5": "e7fd01b1650143f30581ac2717d74e2c",
+      "info": {
+        "title": "goodbye world",
+        "artist": "yeowool",
+        "genre": "blue hardcore",
+        "subtitles": [
+          "[DP NORMAL]"
+        ],
+        "subartists": [
+          "obj. Limite"
+        ],
+        "difficulty": 2,
+        "level": 5
+      },
+      "noteCount": 226,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 125.97857142857144,
+      "scratch": true,
+      "keys": "14K",
+      "file": "goodbyeworld_22_DPN.bms"
+    },
+    {
+      "md5": "fbd185755fcbe68a3865a3385c3975a8",
+      "info": {
+        "title": "goodbye world",
+        "artist": "yeowool",
+        "genre": "blue hardcore",
+        "subtitles": [
+          "[SP ANOTHER]"
+        ],
+        "subartists": [
+          "obj. BK"
+        ],
+        "difficulty": 4,
+        "level": 9
+      },
+      "noteCount": 1084,
+      "bpm": {
+        "init": 175,
+        "min": 175,
+        "median": 175,
+        "max": 175
+      },
+      "duration": 125.97857142857144,
+      "scratch": true,
+      "keys": "7K",
+      "file": "goodbyeworld_14_SPA.bms"
+    }
+  ],
+  "title": "goodbye world",
+  "artist": "yeowool",
+  "genre": "blue hardcore",
+  "bpm": 175,
+  "replaygain": "-11.15 dB",
+  "preview_offset": 67,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "YouTube",
+  "youtube_url": "https://www.youtube.com/watch?v=qRlS5fCw5mI",
+  "artist_url": "https://x.com/yeowool404",
+  "readme": "",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 1.2
+}

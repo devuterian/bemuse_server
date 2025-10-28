@@ -1,0 +1,252 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "44e94847d380a31d449ffcb9c0612b0a",
+      "info": {
+        "title": "[Re]Birth",
+        "artist": "LucaProject vs Neptune XI",
+        "genre": "World",
+        "subtitles": [
+          "-DP ANOTHER-"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 867,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 126.66666666666666,
+      "scratch": true,
+      "keys": "14K",
+      "file": "ReBirth_24_DPA.bms"
+    },
+    {
+      "md5": "c398237a47f4b4901a78104582ce38a2",
+      "info": {
+        "title": "[Re]Birth",
+        "artist": "LucaProject vs Neptune XI",
+        "genre": "World",
+        "subtitles": [
+          "-SP NORMAL-"
+        ],
+        "subartists": [
+          "obj. BK"
+        ],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 502,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 126.66666666666666,
+      "scratch": true,
+      "keys": "7K",
+      "file": "ReBirth_12_SPN.bms"
+    },
+    {
+      "md5": "80e1c615e7280393be7cf20ed4c0bc8a",
+      "info": {
+        "title": "[Re]Birth",
+        "artist": "LucaProject vs Neptune XI",
+        "genre": "World",
+        "subtitles": [
+          "-SP HYPER-"
+        ],
+        "subartists": [
+          "obj. BK"
+        ],
+        "difficulty": 3,
+        "level": 8
+      },
+      "noteCount": 880,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 126.66666666666666,
+      "scratch": true,
+      "keys": "7K",
+      "file": "ReBirth_13_SPH.bms"
+    },
+    {
+      "md5": "61b43dc6c71bbfe1cc24c18a20071514",
+      "info": {
+        "title": "[Re]Birth",
+        "artist": "LucaProject vs Neptune XI",
+        "genre": "World",
+        "subtitles": [
+          "-SP ANOTHER-"
+        ],
+        "subartists": [
+          "obj. BK"
+        ],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 1487,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 126.66666666666666,
+      "scratch": true,
+      "keys": "7K",
+      "file": "ReBirth_14_SPA.bms"
+    },
+    {
+      "md5": "634d71f77b10035ec026db97ad3830e7",
+      "info": {
+        "title": "[Re]Birth",
+        "artist": "LucaProject vs Neptune XI / Limite",
+        "genre": "World",
+        "subtitles": [
+          "-DP NORMAL-"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 280,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 126.66666666666666,
+      "scratch": true,
+      "keys": "14K",
+      "file": "ReBirth_22_DPN.bms"
+    },
+    {
+      "md5": "8171c473969740b53a560e327fdee6e2",
+      "info": {
+        "title": "[Re]Birth",
+        "artist": "LucaProject vs Neptune XI / Limite",
+        "genre": "World",
+        "subtitles": [
+          "-DP HYPER-"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 659,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 126.66666666666666,
+      "scratch": true,
+      "keys": "14K",
+      "file": "ReBirth_23_DPH.bms"
+    },
+    {
+      "md5": "964e4bc6ce1800cf2772e22597713fdc",
+      "info": {
+        "title": "[Re]Birth",
+        "artist": "LucaProject vs Neptune XI",
+        "genre": "World",
+        "subtitles": [
+          "-SP BEGINNER-"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 2
+      },
+      "noteCount": 182,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 126.66666666666666,
+      "scratch": true,
+      "keys": "7K",
+      "file": "ReBirth_11_SPB.bms"
+    },
+    {
+      "md5": "cf2429976cbcbc59dd30f114cb36a3e7",
+      "info": {
+        "title": "[Re]Birth",
+        "artist": "LucaProject vs Neptune XI",
+        "genre": "World",
+        "subtitles": [
+          "-SP INSANE-"
+        ],
+        "subartists": [
+          "obj. BK"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 2036,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 126.66666666666666,
+      "scratch": true,
+      "keys": "7K",
+      "file": "ReBirth_15_SPI.bms"
+    },
+    {
+      "md5": "98612d43f567f9e3cfa37f2c4b571b3b",
+      "info": {
+        "title": "[Re]Birth",
+        "artist": "LucaProject vs Neptune XI / Limite",
+        "genre": "World",
+        "subtitles": [
+          "-DP INSANE-"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 1218,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 126.66666666666666,
+      "scratch": true,
+      "keys": "14K",
+      "file": "ReBirth_25_DPI.bms"
+    }
+  ],
+  "title": "[Re]Birth",
+  "artist": "LucaProject vs Neptune XI",
+  "genre": "World",
+  "bpm": 162,
+  "replaygain": "-13.47 dB",
+  "preview_offset": 82,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://www.youtube.com/watch?v=4H3EP3n245M",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=149",
+  "readme": "",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 0.5
+}

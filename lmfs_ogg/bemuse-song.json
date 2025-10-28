@@ -1,0 +1,227 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "f370cceeb285e3323ba80f7127328298",
+      "info": {
+        "title": "let me finish, savior",
+        "artist": "chilldive & marierie",
+        "genre": "rock",
+        "subtitles": [
+          "[SP INSANE]"
+        ],
+        "subartists": [
+          "obj. BK"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 2200,
+      "bpm": {
+        "init": 207,
+        "min": 207,
+        "median": 207,
+        "max": 207
+      },
+      "duration": 152.46376811594203,
+      "scratch": true,
+      "keys": "7K",
+      "file": "__lmfs_15_SPI.bms"
+    },
+    {
+      "md5": "270bd7f968c50a947053ab28ec7d75ce",
+      "info": {
+        "title": "let me finish, savior",
+        "artist": "chilldive & marierie",
+        "genre": "rock",
+        "subtitles": [
+          "[SP Beginner]"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 1
+      },
+      "noteCount": 283,
+      "bpm": {
+        "init": 207,
+        "min": 207,
+        "median": 207,
+        "max": 207
+      },
+      "duration": 152.46376811594203,
+      "scratch": true,
+      "keys": "7K",
+      "file": "__lmfs_11_SPB.bms"
+    },
+    {
+      "md5": "ea7b3a9f68595d1e1689c2ffabef6c4f",
+      "info": {
+        "title": "let me finish, savior",
+        "artist": "chilldive & marierie / Limite",
+        "genre": "rock",
+        "subtitles": [
+          "[DP HYPER]"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 676,
+      "bpm": {
+        "init": 207,
+        "min": 207,
+        "median": 207,
+        "max": 207
+      },
+      "duration": 152.46376811594203,
+      "scratch": true,
+      "keys": "14K",
+      "file": "__lmfs_23_DPH.bms"
+    },
+    {
+      "md5": "b739d24f548588e2b1583a16d410d372",
+      "info": {
+        "title": "let me finish, savior",
+        "artist": "chilldive & marierie",
+        "genre": "rock",
+        "subtitles": [
+          "[SP Another]"
+        ],
+        "subartists": [
+          "obj. RemiIia"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1932,
+      "bpm": {
+        "init": 207,
+        "min": 207,
+        "median": 207,
+        "max": 207
+      },
+      "duration": 152.46376811594203,
+      "scratch": true,
+      "keys": "7K",
+      "file": "__lmfs_14_SPA.bms"
+    },
+    {
+      "md5": "e5b528af43e2eeb9cd31121ed3554f95",
+      "info": {
+        "title": "let me finish, savior",
+        "artist": "chilldive & marierie / Limite",
+        "genre": "rock",
+        "subtitles": [
+          "[DP NORMAL]"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 297,
+      "bpm": {
+        "init": 207,
+        "min": 207,
+        "median": 207,
+        "max": 207
+      },
+      "duration": 152.46376811594203,
+      "scratch": true,
+      "keys": "14K",
+      "file": "__lmfs_22_DPN.bms"
+    },
+    {
+      "md5": "066ce6853726d560b1c6af7a865c7660",
+      "info": {
+        "title": "let me finish, savior",
+        "artist": "chilldive & marierie",
+        "genre": "rock",
+        "subtitles": [
+          "[SP Hyper]"
+        ],
+        "subartists": [
+          "obj. RemiIia"
+        ],
+        "difficulty": 3,
+        "level": 11
+      },
+      "noteCount": 1387,
+      "bpm": {
+        "init": 207,
+        "min": 207,
+        "median": 207,
+        "max": 207
+      },
+      "duration": 152.46376811594203,
+      "scratch": true,
+      "keys": "7K",
+      "file": "__lmfs_13_SPH.bms"
+    },
+    {
+      "md5": "f39bcb872481e41b23807fb9ff0f82e4",
+      "info": {
+        "title": "let me finish, savior",
+        "artist": "chilldive & marierie / Limite",
+        "genre": "rock",
+        "subtitles": [
+          "[DP ANOHTER]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1008,
+      "bpm": {
+        "init": 207,
+        "min": 207,
+        "median": 207,
+        "max": 207
+      },
+      "duration": 152.46376811594203,
+      "scratch": true,
+      "keys": "14K",
+      "file": "__lmfs_24_DPA.bms"
+    },
+    {
+      "md5": "a12ea2a15e565679ac28c1bd134d2b45",
+      "info": {
+        "title": "let me finish, savior",
+        "artist": "chilldive & marierie",
+        "genre": "rock",
+        "subtitles": [
+          "[SP Normal]"
+        ],
+        "subartists": [
+          "obj.RemiIia"
+        ],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 678,
+      "bpm": {
+        "init": 207,
+        "min": 207,
+        "median": 207,
+        "max": 207
+      },
+      "duration": 152.46376811594203,
+      "scratch": true,
+      "keys": "7K",
+      "file": "__lmfs_12_SPN.bms"
+    }
+  ],
+  "title": "let me finish, savior",
+  "artist": "chilldive & marierie",
+  "genre": "rock",
+  "bpm": 207,
+  "replaygain": "-11.07 dB",
+  "preview_offset": 3,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/chilldive/let-me-finish-savior",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=399&event=149",
+  "readme": "",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 1.2
+}
