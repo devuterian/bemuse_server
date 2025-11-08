@@ -27,6 +27,31 @@
       "file": "__ESPITZ_IDENCY_02_SPN.bme"
     },
     {
+      "md5": "898bd9b4f322bd44020ff29ba5c88499",
+      "info": {
+        "title": "IDENCY",
+        "artist": "ESPITZ Gt.NeLiME",
+        "genre": "Progressive Metal",
+        "subtitles": [
+          "[DP ANOTHER]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 868,
+      "bpm": {
+        "init": 156,
+        "min": 156,
+        "median": 156,
+        "max": 156
+      },
+      "duration": 117.68429487179488,
+      "scratch": true,
+      "keys": "14K",
+      "file": "__ESPITZ_IDENCY_24_DPA.bme"
+    },
+    {
       "md5": "c0b73750608f131977eb51be5bbaa6e3",
       "info": {
         "title": "IDENCY",
@@ -50,6 +75,31 @@
       "scratch": true,
       "keys": "7K",
       "file": "__ESPITZ_IDENCY_03_SPH.bme"
+    },
+    {
+      "md5": "24e2bfa3d3703ec29d7b8301b606edd2",
+      "info": {
+        "title": "IDENCY",
+        "artist": "ESPITZ Gt.NeLiME",
+        "genre": "Progressive Metal",
+        "subtitles": [
+          "[DP NORMAL]"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 7
+      },
+      "noteCount": 297,
+      "bpm": {
+        "init": 156,
+        "min": 156,
+        "median": 156,
+        "max": 156
+      },
+      "duration": 117.68429487179488,
+      "scratch": true,
+      "keys": "14K",
+      "file": "__ESPITZ_IDENCY_22_DPN.bme"
     },
     {
       "md5": "afc5d853506fe864e0a7dc308941408f",
@@ -77,6 +127,56 @@
       "file": "__ESPITZ_IDENCY_04_SPA.bme"
     },
     {
+      "md5": "58a7e50b97dd7c6f0ab49cd400e3c884",
+      "info": {
+        "title": "IDENCY",
+        "artist": "ESPITZ Gt.NeLiME",
+        "genre": "Progressive Metal",
+        "subtitles": [
+          "[DP HYPER]"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 576,
+      "bpm": {
+        "init": 156,
+        "min": 156,
+        "median": 156,
+        "max": 156
+      },
+      "duration": 117.68429487179488,
+      "scratch": true,
+      "keys": "14K",
+      "file": "__ESPITZ_IDENCY_23_DPH.bme"
+    },
+    {
+      "md5": "e393bf31f96f6115a575d80ebc176081",
+      "info": {
+        "title": "IDENCY",
+        "artist": "ESPITZ Gt.NeLiME",
+        "genre": "Progressive Metal",
+        "subtitles": [
+          "[SP LEGGENDARIA]"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 1973,
+      "bpm": {
+        "init": 156,
+        "min": 156,
+        "median": 156,
+        "max": 156
+      },
+      "duration": 117.68429487179488,
+      "scratch": true,
+      "keys": "7K",
+      "file": "__ESPITZ_IDENCY_05_SPL.bme"
+    },
+    {
       "md5": "f29bb31330309eea65e77ecaf9464cfc",
       "info": {
         "title": "IDENCY",
@@ -100,22 +200,72 @@
       "scratch": true,
       "keys": "7K",
       "file": "__ESPITZ_IDENCY_01_SPB.bme"
+    },
+    {
+      "md5": "0a0d41523ff846865a99f8c743592f76",
+      "info": {
+        "title": "IDENCY",
+        "artist": "ESPITZ Gt.NeLiME",
+        "genre": "Progressive Metal",
+        "subtitles": [
+          "[DP LEGGENDARIA]"
+        ],
+        "subartists": [],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 1010,
+      "bpm": {
+        "init": 156,
+        "min": 156,
+        "median": 156,
+        "max": 156
+      },
+      "duration": 117.68429487179488,
+      "scratch": true,
+      "keys": "14K",
+      "file": "__ESPITZ_IDENCY_25_DPL.bme"
+    },
+    {
+      "md5": "c2c3dff534dade09afb7b821c35515b1",
+      "info": {
+        "title": "IDENCY",
+        "artist": "ESPITZ Gt.NeLiME",
+        "genre": "Progressive Metal",
+        "subtitles": [
+          "[DP BEGINNER]"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 2
+      },
+      "noteCount": 89,
+      "bpm": {
+        "init": 156,
+        "min": 156,
+        "median": 156,
+        "max": 156
+      },
+      "duration": 117.68429487179488,
+      "scratch": true,
+      "keys": "14K",
+      "file": "__ESPITZ_IDENCY_21_DPB.bme"
     }
   ],
   "title": "IDENCY",
   "artist": "ESPITZ Gt.NeLiME",
   "genre": "Progressive Metal",
   "bpm": 156,
-  "replaygain": "-9.85 dB",
-  "preview_offset": 77,
+  "replaygain": "-9.83 dB",
+  "preview_offset": 14,
   "preview_url": "bemuse-data/preview.mp3",
-  "song_url": "YouTube",
-  "bms_url": "https://publish.soundpiercer.io/bms/2025/ESPITZ_IDENCY_OGG.zip",
+  "song_url": "https://www.youtube.com/watch?v=frFkmMZeiAQ",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=149",
   "youtube_url": "https://www.youtube.com/watch?v=frFkmMZeiAQ",
   "artist_url": "https://x.com/espitzofficial",
   "readme": "",
   "back_image_url": "bemuse-data/back_image.jpg",
   "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
   "video_url": "bemuse-data/bga.mp4",
-  "video_offset": 1.6
+  "video_offset": 1.7
 }
